@@ -1,0 +1,31 @@
+body{    
+font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.img-responsive{
+    border-radius: 20px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    margin-left: 30px;
+    margin-right: 30px;
+    width: 360px;
+    height: 360px;
+}
+
+.div_heading1{
+    background-color:rgb(171, 230, 195);
+    border-radius: 20px;
+}
+
+.copy_right_footer{
+    position: fixed;
+    color:black;
+    bottom: 0;
+    width:100%;
+    line-height:3;
+    text-align: center;
+  }
+
+.test_image_and_result{
+    border-radius: 20px;
+}
